@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="17088"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="17088">
+				<Option output="G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/17088.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Program Files/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Program Files/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/mingw32"/>
+					<Add directory="E:/Program Files/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Program Files/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="E:/Program Files/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Program Files/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 17088"/>
+					<CompileFile command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="17088/fast">
+				<Option output="G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/17088.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Program Files/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Program Files/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/mingw32"/>
+					<Add directory="E:/Program Files/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Program Files/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="E:/Program Files/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Program Files/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 17088/fast"/>
+					<CompileFile command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/MinGW/bin/mingw32-make.exe -f &quot;G:/Code/OJ/Algorithm Analyze and Design Course/17088/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="G:/Code/OJ/Algorithm Analyze and Design Course/17088/main.cpp">
+			<Option target="17088"/>
+		</Unit>
+		<Unit filename="G:/Code/OJ/Algorithm Analyze and Design Course/17088/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

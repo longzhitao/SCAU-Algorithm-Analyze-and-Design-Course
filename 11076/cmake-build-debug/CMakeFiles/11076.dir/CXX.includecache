@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/Code/OJ/Algorithm Analyze and Design Course/11076/main.cpp
+iostream
+-
+cstdio
+-
+cstdlib
+-
+cmath
+-
+
