@@ -59,15 +59,15 @@ include CMakeFiles/10304.dir/flags.make
 CMakeFiles/10304.dir/main.cpp.obj: CMakeFiles/10304.dir/flags.make
 CMakeFiles/10304.dir/main.cpp.obj: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\Code\OJ\Algorithm Analyze and Design Course\10304\cmake-build-debug-mingw\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/10304.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\10304.dir\main.cpp.obj -c "G:\Code\OJ\Algorithm Analyze and Design Course\10304\main.cpp"
+	"E:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64\bin\g++.exe"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\10304.dir\main.cpp.obj -c "G:\Code\OJ\Algorithm Analyze and Design Course\10304\main.cpp"
 
 CMakeFiles/10304.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/10304.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\Code\OJ\Algorithm Analyze and Design Course\10304\main.cpp" > CMakeFiles\10304.dir\main.cpp.i
+	"E:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\Code\OJ\Algorithm Analyze and Design Course\10304\main.cpp" > CMakeFiles\10304.dir\main.cpp.i
 
 CMakeFiles/10304.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/10304.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\Code\OJ\Algorithm Analyze and Design Course\10304\main.cpp" -o CMakeFiles\10304.dir\main.cpp.s
+	"E:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64\bin\g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\Code\OJ\Algorithm Analyze and Design Course\10304\main.cpp" -o CMakeFiles\10304.dir\main.cpp.s
 
 # Object files for target 10304
 10304_OBJECTS = \
