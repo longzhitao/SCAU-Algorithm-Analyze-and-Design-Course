@@ -141,6 +141,6 @@ if __name__ == '__main__':
     GA.weight = weight
     GA.value = value
 
-    ga = GA(100, 50, 0.2, 0.3, 300)
-    ga.run(100)
+    ga = GA(100, 50, 0.2, 0, 300)
+    ga.run(300)
     pass
